@@ -1,37 +1,25 @@
-## Welcome to GitHub Pages
+# Welcome to the Veloster FAQ  
 
-You can use the [editor on GitHub](https://github.com/servicepowerdavid/VelosterFAQ/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+This serves as a repository for questions that come up all the time in the Veloster Facebook groups.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Frequently Asked Questions
 
-### Markdown
+### What gas should I put in my Veloster?
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+This is probably the most-asked question. Note that this **does not apply if you are tuned**. I trust that if you're tuned, you know what gas to use.
 
-```markdown
-Syntax highlighted code block
+This can be split into NAV and Turbo:
 
-# Header 1
-## Header 2
-### Header 3
+-**NAV**: 87 is fine. Putting in anything more won't really do anything for you. 
 
-- Bulleted
-- List
+-**Turbo**: 87 is also fine. In fact, it's in the manual, and was the fuel used for the EPA fuel economy testing. If you are a "spirited driver", tuned, or track your car, 91/93 can offer you better response. For daily driving it isn't necessary. The ECU will pull timings to prevent knocking if you happen to encounter it on 87. 
 
-1. Numbered
-2. List
+Putting higher octane-rating fuel in your car does not mean it "burns cleaner" or any such nonsense. Higher octane rating = higher compression before detonation.
 
-**Bold** and _Italic_ and `Code` text
+_**Do Not Put e85 In Your Car Unless You're Modded To Accomodate It**_
 
-[Link](url) and ![Image](src)
-```
+### What grade/brand oil should I use?
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+General rule of thumb in any car is to use what's on the oil fill cap. 
 
-### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/servicepowerdavid/VelosterFAQ/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
